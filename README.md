@@ -22,7 +22,7 @@ Uczę się przez budowanie. Każdy projekt który tu widzisz rozwiązuje problem
 |---------|------|-------|
 | 🤖 **DeskBuddy** | Głosowy asystent AI na pulpicie — proaktywny, działa offline | Electron, React, Whisper, Ollama |
 | 🧠 **LocalMind** | Prywatny ChatGPT bez chmury — dla firm które dbają o dane | React, Express, SQLite, Ollama |
-| ⚙️ **CharBot OS** | Platforma AI dla przedsiębiorstw — chat, agenty, automatyzacja | Node.js, React, Electron |
+| ⚙️ **CharBot OS** | Platforma AI dla przedsiębiorstw — chat, agenci, automatyzacja | Node.js, React, Electron |
 
 ---
 
