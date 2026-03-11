@@ -1,6 +1,8 @@
-# Mateusz Uraz
+# Mateusz Uraz · Charbot
 
 > Buduję narzędzia AI które rozwiązują realne problemy — w fabryce i poza nią.
+
+🌐 **[charbot.org](https://charbot.org)**
 
 ---
 
@@ -8,13 +10,13 @@
 
 Zaczynałem od pracy fizycznej w Irlandii. Wróciłem do Polski, wszedłem w przemysł i przez kilka lat zrozumiałem jak naprawdę działają procesy produkcyjne od środka — nie z prezentacji, ale z hali.
 
-Dziś koordynuję Continuous Improvement i prowadzę transformację cyfrową w firmie przemysłowej. Równolegle buduję aplikacje AI — bo wierzę, że najciekawsze rzeczy powstają na styku świata fizycznego i technologii.
+Dziś koordynuję Continuous Improvement i prowadzę transformację cyfrową w firmie przemysłowej. Równolegle buduję **Charbot** — ekosystem narzędzi AI dla firm które chcą działać lokalnie, bez uzależnienia od chmury.
 
 Uczę się przez budowanie. Każdy projekt który tu widzisz rozwiązuje problem który sam napotkałem.
 
 ---
 
-## Co buduję
+## Charbot — ekosystem
 
 | Projekt | Opis | Stack |
 |---------|------|-------|
@@ -37,9 +39,9 @@ Uczę się przez budowanie. Każdy projekt który tu widzisz rozwiązuje problem
 
 ## Podejście
 
-Interesuje mnie AI która działa lokalnie — bez wysyłania danych do chmury, bez subskrypcji, bez uzależnienia od zewnętrznych serwisów. Szczególnie w kontekście przemysłu i małych firm, które mają realne potrzeby ale nie mają budżetu enterprise.
+Local-first AI — bez wysyłania danych do chmury, bez subskrypcji, bez uzależnienia od zewnętrznych serwisów. Szczególnie w kontekście przemysłu i firm, które mają realne potrzeby ale cenią prywatność i kontrolę nad swoimi danymi.
 
-Jeśli budujesz coś podobnego albo chcesz porozmawiać o lokalnym AI — napisz.
+Jeśli budujesz coś podobnego albo chcesz porozmawiać — napisz lub odwiedź **[charbot.org](https://charbot.org)**.
 
 ---
 
